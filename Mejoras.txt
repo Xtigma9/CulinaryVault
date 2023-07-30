@@ -1,0 +1,6 @@
+IMPORTANTE: Dejar que el usuario añada sus recetas
+- Implementar la funcionalidad para editar y eliminar recetas.
+- Permitir a los usuarios agregar etiquetas o categorías a las recetas para una mejor organización.
+- Agregar imágenes a las recetas.
+- Permitir a los usuarios guardar su lista de ingredientes favoritos o marcados como "completados".
+- Exportar e importar recetas en formatos como JSON o CSV.
