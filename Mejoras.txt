@@ -4,3 +4,8 @@ IMPORTANTE: Dejar que el usuario añada sus recetas
 - Agregar imágenes a las recetas.
 - Permitir a los usuarios guardar su lista de ingredientes favoritos o marcados como "completados".
 - Exportar e importar recetas en formatos como JSON o CSV.
+
+- En el campo ingredientes no dejar un texto, si no que dejar solo palabras. O tambien poder tener una base de datos de 
+ingredientes y de ahi un desplegble y escoger ¿?
+- Al dar a guardar no se cierra instantanemente la ventan de añadir receta. 
+- Al clickar en la receta no se abre la receta LOL. 

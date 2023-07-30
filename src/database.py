@@ -26,3 +26,13 @@ def agregar_receta(titulo, ingredientes, pasos):
 
     conn.commit()
     conn.close()
+
+
+def eliminar_receta(titulo):
+    conn = sqlite3.connect("recetas.db")
+    cursor = conn.cursor()
+
+    cursor.execute('DELETE FROM Recetas WHERE titulo = ?', (titulo,))
+
+    conn.commit()
+    conn.close()
